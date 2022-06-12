@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **React, JavaScript, and Rails**
 
+- 👩🏻‍💻 Come visit my website at 
+
 - 📫 How to reach me **chloepeng331@icloud.com**
 
 - ⚡ What do I do if I'm not coding? **You will find me either on the mountain 🏔 or beach 🏖**
