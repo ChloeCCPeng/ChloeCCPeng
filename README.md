@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chloepeng331@icloud.com**
 
-- ⚡ What do I do if I'm not coding? **I'm a huge adventurer and an extreme sports enthusiast! I'm currently learning swimming to check cliff diving off my bucket list :))**
+- ⚡ What do I do if I'm not coding? **I'm a huge adventurer and an extreme sports enthusiast! I'm currently learning swimming 🧜‍♀️ to check cliff diving off my bucket list :))**
 <br>
 
 <h3 align="left">Connect with me:</h3>
