@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chloepeng331](https://medium.com/@chloepeng331)
 
-- 💬 Ask me about **React, JavaScript, and Rails**
+- 💬 Ask me about **React, JavaScript, Ruby, and Rails**
 
 - 👩🏻‍💻 Come visit my website at [Chloe Peng](https://www.chloepeng.info/)
 
