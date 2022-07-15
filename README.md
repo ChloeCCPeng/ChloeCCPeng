@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript, and Rails**
 
-- 👩🏻‍💻 Come visit my website at [Chloe](https://www.chloepeng.info/)
+- 👩🏻‍💻 Come visit my website at [Chloe Peng](https://www.chloepeng.info/)
 
 - 📫 How to reach me **chloepeng331@icloud.com**
 
