@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chloe Peng</h1>
 <br>
-<h3 align="center"> - A passionate frontend focused software engineer from Atlanta! :) - </h3>
+<h3 align="center"> ~ I'm a passionate frontend focused software engineer from Atlanta! :) ~ </h3>
 <br>
 
 - 👩🏻‍💻 I’m currently working on Mush|Home - A platform helps the buyers directly connect with the sellers using JavaScript, React, Ruby, and Rails https://github.com/ChloeCCPeng/Real-Estate-4 
@@ -19,7 +19,7 @@
 
 - 📫 I can be reached by **chloepeng331@icloud.com**
 
-- ⚡ What do I do if I'm not coding? **I'm a huge adventurer and an extreme sports enthusiast! I'm currently learning swimming 🧜‍♀️ to check cliff diving off my bucket list :))**
+- ⚡ I'm a huge adventurer and an extreme sports enthusiast! I'm currently learning swimming 🧜‍♀️ to check cliff diving off my bucket list :))**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
