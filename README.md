@@ -3,7 +3,7 @@
 <h3 align="center"> - A passionate frontend focused software engineer from Atlanta! :) - </h3>
 <br>
 
-- 🔭 I’m currently working on Mush|Home - A platform helps the buyers directly connect with the sellers using JavaScript, React, Ruby, and Rails https://github.com/ChloeCCPeng/Real-Estate-4 
+- 👩🏻‍💻 I’m currently working on Mush|Home - A platform helps the buyers directly connect with the sellers using JavaScript, React, Ruby, and Rails https://github.com/ChloeCCPeng/Real-Estate-4 
 
 - 🌱 I’m currently learning **Solidity**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript, Ruby, and Rails**
 
-- 👩🏻‍💻 Come visit my website at [www.chloepeng.info](https://www.chloepeng.info/)
+- 🤩 Come visit my website to check up my latest update at [www.chloepeng.info](https://www.chloepeng.info/)
 
 - 📫 I can be reached by **chloepeng331@icloud.com**
 
