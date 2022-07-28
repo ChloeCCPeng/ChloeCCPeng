@@ -3,7 +3,7 @@
 <h3 align="center"> ~ I'm a passionate frontend focused software engineer from Atlanta! :) ~ </h3>
 <br>
 
-- 👩🏻‍💻 I’m currently working on Mush|Home - A platform helps the buyers directly connect with the sellers using JavaScript, React, Ruby, and Rails https://github.com/ChloeCCPeng/Real-Estate-4 
+- 👩🏻‍💻 I’m currently working on Mush|Home - A platform helps the buyers directly connect with the sellers using JavaScript, React, Ruby, and Rails [Mush|Home](https://github.com/ChloeCCPeng/Real-Estate-4)
 
 - 🌱 I’m currently learning **Solidity**
 
