@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chloepeng331](https://medium.com/@chloepeng331)
 
-- 💬 Ask me about **React, JavaScript, Ruby, Rails, and NetSuite**
+- 💬 Ask me about **React, JavaScript, Ruby, Ruby on Rails, and NetSuite**
 
 - 🤩 Come visit my website to check up my latest update at [www.chloepeng.info](https://www.chloepeng.info/)
 
