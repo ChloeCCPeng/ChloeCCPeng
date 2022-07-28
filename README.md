@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chloe Peng</h1>
 <br>
-<h3 align="center"> I'm a passionate frontend focused software engineer from Atlanta! I'm committed to code everyday because if I can get
-1 percent better each day for one year, I’ll end up thirty-seven times better a year later!</h3>Cancel changes
+<h3 align="center"> ~ I'm a passionate frontend focused software engineer from Atlanta! ~ </h3>
 <br>
 
 - 👩🏻‍💻 I’m currently working on Mush|Home - A platform helps the buyers directly connect with the sellers using JavaScript, React, Ruby, and Rails [Mush|Home](https://github.com/ChloeCCPeng/Real-Estate-4)
 
 - 🌱 I’m currently learning **Solidity**
 
-- 🤓 "If you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. - James Clear". My motto is small improvements can accumulate into a remarkable result. 
+- 🤓 I believe small improvements can accumulate into a remarkable result. _"If you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. - James Clear". _
 
 - 🤝 I'm currently contributing to [Faker Ruby](https://github.com/faker-ruby) & [Raid Guild](https://github.com/raid-guild/RIPs)
 
