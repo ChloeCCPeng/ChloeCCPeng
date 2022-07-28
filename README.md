@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 🤝 I'm currently contributing to [Faker](https://github.com/faker-ruby) & [Raid Guild](https://github.com/raid-guild/RIPs)
+- 🤝 I'm currently contributing to [Faker Ruby](https://github.com/faker-ruby) & [Raid Guild](https://github.com/raid-guild/RIPs)
 
 - 🙌🏻 Connect with me at [https://www.linkedin.com/in/chloepeng-software-developer/](https://www.linkedin.com/in/chloepeng-software-developer/)
 
