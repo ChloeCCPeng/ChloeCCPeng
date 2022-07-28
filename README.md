@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 🤓 I believe
+- 🤓 "If you can get 1 percent better each day for one year, you’ll end up thirty-seven times better by the time you’re done. - James Clear". My motto is small improvements can accumulate into a remarkable result. 
 
 - 🤝 I'm currently contributing to [Faker Ruby](https://github.com/faker-ruby) & [Raid Guild](https://github.com/raid-guild/RIPs)
 
